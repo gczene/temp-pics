@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calendar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 190 190" enable-background="new 0 0 190 190" xml:space="preserve">
+<g>
+	<g>
+		
+			<path fill="none" stroke="#0B2F6B" stroke-width="7.187" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M176.1,38.7c0-6.7-5.4-12.2-12.2-12.2H26.1c-6.7,0-12.2,5.4-12.2,12.2v127.2c0,6.7,5.4,12.2,12.2,12.2h137.8
+			c6.7,0,12.2-5.4,12.2-12.2V38.7z"/>
+	</g>
+	<g>
+		
+			<line fill="none" stroke="#0B2F6B" stroke-width="13.2905" stroke-linecap="round" stroke-miterlimit="10" x1="41" y1="11.9" x2="41" y2="42.9"/>
+		
+			<line fill="none" stroke="#0B2F6B" stroke-width="13.2905" stroke-linecap="round" stroke-miterlimit="10" x1="68" y1="11.9" x2="68" y2="42.9"/>
+		
+			<line fill="none" stroke="#0B2F6B" stroke-width="13.2905" stroke-linecap="round" stroke-miterlimit="10" x1="95" y1="11.9" x2="95" y2="42.9"/>
+		
+			<line fill="none" stroke="#0B2F6B" stroke-width="13.2905" stroke-linecap="round" stroke-miterlimit="10" x1="122" y1="11.9" x2="122" y2="42.9"/>
+		
+			<line fill="none" stroke="#0B2F6B" stroke-width="13.2905" stroke-linecap="round" stroke-miterlimit="10" x1="149" y1="11.9" x2="149" y2="42.9"/>
+	</g>
+	<g>
+		<circle fill="#0B2F6B" cx="43.9" cy="77.4" r="12.6"/>
+		<circle fill="#0B2F6B" cx="78" cy="77.4" r="12.6"/>
+		<circle fill="#0B2F6B" cx="112" cy="77.4" r="12.6"/>
+		<circle fill="#0B2F6B" cx="146.1" cy="77.4" r="12.6"/>
+		<circle fill="#0B2F6B" cx="43.9" cy="111.2" r="12.6"/>
+		<circle fill="#0B2F6B" cx="78" cy="111.2" r="12.6"/>
+		<circle fill="none" stroke="#0B2F6B" stroke-width="3.9872" stroke-miterlimit="10" cx="112" cy="111.2" r="12.6"/>
+		<circle fill="none" stroke="#0B2F6B" stroke-width="3.9872" stroke-miterlimit="10" cx="146.1" cy="111.2" r="12.6"/>
+		<circle fill="none" stroke="#0B2F6B" stroke-width="3.9872" stroke-miterlimit="10" cx="43.9" cy="144.9" r="12.6"/>
+		<circle fill="none" stroke="#0B2F6B" stroke-width="3.9872" stroke-miterlimit="10" cx="78" cy="144.9" r="12.6"/>
+		<circle fill="none" stroke="#0B2F6B" stroke-width="3.9872" stroke-miterlimit="10" cx="112" cy="144.9" r="12.6"/>
+		<circle fill="none" stroke="#0B2F6B" stroke-width="3.9872" stroke-miterlimit="10" cx="146.1" cy="144.9" r="12.6"/>
+	</g>
+</g>
+</svg>

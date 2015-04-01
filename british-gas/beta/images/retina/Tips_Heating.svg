@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Heating_Tips" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 111.3 111.3" enable-background="new 0 0 111.3 111.3" xml:space="preserve">
+<circle fill="#00AAED" cx="55.6" cy="56.1" r="54.3"/>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="55.6" cy="56.1" r="54.3"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="#0092D3" d="M73.8,130.4L27.7,84.3c-15.5-15.5-15.5-40.5,0-56s40.5-15.5,56,0L129,73.6
+		L73.8,130.4z"/>
+</g>
+<g>
+	<path fill="#FFFFFF" d="M55.7,30.3c-3.7,0-7.2,0.8-10.3,2.1l-1.4-0.8L39,29l0.1,5.5l0,1.7c-5.8,4.8-9.5,12-9.5,20.1
+		c0,14.3,11.6,26,26,26s26-11.6,26-26C81.6,41.9,70,30.3,55.7,30.3z M55.7,78.5c-12.3,0-22.2-10-22.2-22.2s10-22.2,22.2-22.2
+		c12.3,0,22.2,10,22.2,22.2S67.9,78.5,55.7,78.5z"/>
+	<path fill="#FFFFFF" d="M83.7,28.3c-15.5-15.5-40.5-15.5-56,0c-15.5,15.5-15.5,40.5,0,56l0,0l0.6,0.7l4.4-4.3l-1.4-1.4L28.5,82
+		c-6.7-7-10.1-16-10.2-25h3.5v-2h-3.4c0.3-8.8,3.7-17.5,10.2-24.4l2.8,2.8l1.4-1.4l-2.8-2.8c6.9-6.5,15.7-10,24.5-10.2v4.3h2v-4.3
+		c9,0.2,17.9,3.6,24.8,10.2L78.6,32l1.4,1.4l2.8-2.8C89.3,37.4,92.7,46.2,93,55h-3.7v2H93c-0.2,9-3.6,18-10.2,25L80,79.2l-1.4,1.4
+		l4.4,4.4l1.3-1.5l0,0C99.1,68.1,98.9,43.5,83.7,28.3z"/>
+	<circle fill="#FFFFFF" cx="55.7" cy="56.3" r="18.4"/>
+</g>
+</svg>

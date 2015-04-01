@@ -1,0 +1,6 @@
+.modal.in .modal-dialog{z-index:1051;}
+@media (max-width: 767px){
+	#addon-bg-header header {
+	height: 100px;
+	}
+}
