@@ -1,5 +1,8 @@
 /*this gets compiled down to the custom.css*/
 
+@import "bg-variables";
+@import "../node_modules/bootstrap/less/variables";
+
 /* Global */
 h1,h2,h3,h4,h5,h6{
   font-weight: 300;
@@ -79,7 +82,7 @@ h1,h2,h3,h4,h5,h6{
 /* more than 768 */
 
 
-@media (min-width: 768px)
+@media (min-width: @screen-sm-min)
 {
   h1{ font-size:50px}
   h2{ font-size:40px}
@@ -544,13 +547,15 @@ a.telef
   {
     display: flex;
     min-height: 450px;
+
+    .content-panel-body
+    {
+      padding: 60px 40px 40px 40px;
+      margin-top: auto;
+      margin-bottom: auto;
+    }
   }
-  .content-panel-type2 .content-panel-body
-  {
-    padding: 60px 40px 40px 40px;
-    margin-top: auto;
-    margin-bottom: auto;
-  }
+
   .content-panel-image
   {
     height: auto;

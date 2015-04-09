@@ -9,6 +9,7 @@
   "author": "Nikos Katsikanis, Xavier Poves",
   "dependencies": {},
   "devDependencies": {
+    "bootstrap": "^3.3.4",
     "less": "^2.5.0"
   }
 }
