@@ -745,7 +745,7 @@ a .fa-angle-right, a .fa-angle-left{
 .content-panel-faq
 {
     min-height: 400px;
-    padding: ;: 78px 0 0 0;;
+    padding: 78px 0 0 0;
     text-align: left;
 }
 
@@ -1075,4 +1075,3 @@ table.table tbody tr:nth-child(odd) {background: #FFF}
     border: 1px solid #cccccc;
     height: 46px;
 }
-
